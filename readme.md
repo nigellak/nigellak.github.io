@@ -1,0 +1,2 @@
+hugo blog
+deploy peachy
